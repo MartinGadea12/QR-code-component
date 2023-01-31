@@ -22,7 +22,7 @@ body{
 }
 
 .card{
-    height: 460px;
+    height: 500px;
     background-color: var(--bg-card);
     border-radius: 20px;
     padding: 1rem;
@@ -32,7 +32,7 @@ body{
 }
 
 .card > *{
-    width: 300px;
+    width: 275px;
 }
 
 .card img{
